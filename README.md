@@ -5,6 +5,7 @@
 - repo
 - admin:org
 - admin:org_hook
+- admin:repo_hook
 
 ```shell
 ./mvnw clean package
