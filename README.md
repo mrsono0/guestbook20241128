@@ -9,4 +9,5 @@
 
 ```shell
 ./mvnw clean package
+ls -al
 ```
